@@ -90,7 +90,7 @@
 
 <td width="60%" align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jai-Bardiya&theme=tokyonight&hide_border=true"/>
+https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues
 
 </td>
 
