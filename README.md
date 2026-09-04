@@ -90,7 +90,7 @@
 
 <td width="55%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
