@@ -87,13 +87,11 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 # ⚡ DevOps Philosophy
 
