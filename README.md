@@ -85,13 +85,27 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<td width="50%" align="center">
 
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs" height="180"/>
 
-</p>
+</td>
+
+<td width="50%" align="center">
+
+## 🏆 AWS Certification
+
+<img src="https://images.credly.com/size/220x220/images/684d08c0-4f55-4be7-b8e8-91f6d7d3f9e4/image.png" width="170"/>
+
+### AWS Certified Cloud Practitioner
+
+</td>
+
+</tr>
+</table>
 
 # ⚡ DevOps Philosophy
 
