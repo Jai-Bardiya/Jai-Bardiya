@@ -92,17 +92,19 @@
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</td>
-
 <td width="45%" align="center">
 
 <h2>🏆 AWS</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+<img
+src="https://skillicons.dev/icons?i=aws"
+height="90"
+alt="AWS"
+/>
 
 <br><br>
 
-<b>AWS Cloud Practitioner</b>
+<h3><b>AWS Cloud Practitioner</b></h3>
 
 </td>
 # ⚡ DevOps Philosophy
