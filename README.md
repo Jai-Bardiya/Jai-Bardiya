@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Jai%20Bardiya&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20Cloud%20Enthusiast&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=Jai%20Bardiya&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20Cloud%20Enthusiast&descAlignY=70"/>
 
-<img src="assets/profile.jpg" width="220" alt="Jai Bardiya">
+<img src="assets/profile.jpg" width="220" alt="Jai Bardiya"/>
 
-# Hi 👋 I'm Jai Bardiya
+# Hi 👋, I'm Jai Bardiya
 
-### DevOps Engineer • AWS • Kubernetes • Terraform • CI/CD
+### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 
-*Building scalable cloud infrastructure, automating deployments, and creating reliable DevOps pipelines.*
+Passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices.
 
 <p>
-<a href="https://www.linkedin.com/in/jai-bardiya-283014302/">
+
+<a href="https://www.linkedin.com/in/jai-bardiya-283014302/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,20 +27,21 @@
 <a href="https://www.instagram.com/jai_bardiya/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🔭 Working on **AWS, Docker, Kubernetes, Terraform & Jenkins**
+- 🔭 Working with **AWS, Docker, Kubernetes, Terraform & Jenkins**
 - 🌱 Learning **GitOps (ArgoCD), Helm & Kubernetes Security**
-- 🤝 Looking to collaborate on **Open Source DevOps Projects**
-- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Linux, Jenkins, Bash & GitHub Actions**
-- 📫 **Email:** **jaibardiya5@gmail.com**
-- ⚡ **Fun fact:** *If I do something twice, I automate it.*
+- 👯 Looking to collaborate on **Open Source DevOps Projects**
+- 💬 Ask me about **AWS, Terraform, Docker, Kubernetes, Linux, Bash & Jenkins**
+- 📫 Reach me at **jaibardiya5@gmail.com**
+- ⚡ Fun Fact: **If I repeat a task twice, I automate it.**
 
 ---
 
@@ -55,53 +57,63 @@
 
 # 🚀 Featured Projects
 
-### ☁️ AWS Infrastructure with Terraform
+## ☁️ AWS Infrastructure
 
-Provisioned scalable AWS infrastructure using EC2, IAM, VPC, ALB, Auto Scaling and S3.
-
----
-
-### ☸️ Kubernetes Deployment
-
-Containerized applications using Docker and deployed them on Kubernetes.
+Infrastructure as Code using **Terraform** to provision AWS resources including EC2, IAM, VPC, S3, and Load Balancer.
 
 ---
 
-### 🔄 Jenkins CI/CD Pipeline
+## ☸️ Kubernetes Deployment
 
-Automated Build → Test → Deploy pipeline with Jenkins.
-
----
-
-### 📊 Monitoring Stack
-
-Monitoring using Prometheus, Grafana and AWS CloudWatch.
+Dockerized applications deployed on Kubernetes with Services, Deployments, and Ingress.
 
 ---
 
-# 📈 GitHub Statistics
+## 🔄 CI/CD Pipeline
+
+Automated Build → Test → Deploy pipeline using Jenkins.
+
+---
+
+## 📊 Monitoring Stack
+
+Implemented monitoring with Prometheus, Grafana, and AWS CloudWatch.
+
+---
+
+# 📚 Currently Learning
+
+- Kubernetes Security
+- Helm
+- GitOps
+- ArgoCD
+- Advanced AWS Services
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=github_dark&hide_border=true"/>
+<a href="mailto:jaibardiya5@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=github_dark&hide_border=true"/>
+<a href="https://www.linkedin.com/in/jai-bardiya-283014302/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jai-Bardiya&style=for-the-badge&color=0e75b6"/>
+<a href="https://github.com/Jai-Bardiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Jai-Bardiya&style=for-the-badge&color=blue"/>
 
 ### ⭐ Thanks for visiting my profile!
 
