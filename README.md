@@ -1,18 +1,122 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Jai Bardiya</h1><br><h3 align="center">DevOps Engineer | AWS Cloud Enthusiast | Kubernetes | Terraform | CI/CD</h3><br><br><p align="center"><br>Passionate about building scalable cloud infrastructure, automating deployments, and learning cloud-native technologies. I enjoy turning manual processes into automated workflows and solving real-world infrastructure challenges.<br></p><br><br>## 🚀 About Me<br><br>- 🔭 Currently working on **AWS, Kubernetes, Docker, Terraform & Jenkins**<br>- 🌱 Currently learning **GitOps (ArgoCD), Helm, Kubernetes Security, and Advanced AWS**<br>- 👯 Looking to collaborate on **Open Source DevOps & Cloud projects**<br>- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Linux, Jenkins, Bash, GitHub Actions**<br>- 📫 Reach me at **jai.bardiya@gmail.com**<br>- ⚡ Fun fact: I enjoy automating repetitive tasks—if I do something twice, I start thinking about scripting it.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=Jai%20Bardiya&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20Cloud%20Enthusiast&descAlignY=70"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jai_bardiya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jai-bardiya-283014302) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaibardiya5@gmail.com) 
+<img src="assets/profile.jpg" width="220" alt="Jai Bardiya"/>
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jai-Bardiya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Jai-Bardiya&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jai-Bardiya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# Hi 👋, I'm Jai Bardiya
+
+### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+
+Passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices.
+
+<p>
+
+<a href="https://www.linkedin.com/in/jai-bardiya-283014302/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jaibardiya5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jai-Bardiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jai_bardiya/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jai-Bardiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+- 🔭 Working with **AWS, Docker, Kubernetes, Terraform & Jenkins**
+- 🌱 Learning **GitOps (ArgoCD), Helm & Kubernetes Security**
+- 👯 Looking to collaborate on **Open Source DevOps Projects**
+- 💬 Ask me about **AWS, Terraform, Docker, Kubernetes, Linux, Bash & Jenkins**
+- 📫 Reach me at **jaibardiya5@gmail.com**
+- ⚡ Fun Fact: **If I repeat a task twice, I automate it.**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,python,git,github,mysql,prometheus,grafana,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ AWS Infrastructure
+
+Infrastructure as Code using **Terraform** to provision AWS resources including EC2, IAM, VPC, S3, and Load Balancer.
+
+---
+
+## ☸️ Kubernetes Deployment
+
+Dockerized applications deployed on Kubernetes with Services, Deployments, and Ingress.
+
+---
+
+## 🔄 CI/CD Pipeline
+
+Automated Build → Test → Deploy pipeline using Jenkins.
+
+---
+
+## 📊 Monitoring Stack
+
+Implemented monitoring with Prometheus, Grafana, and AWS CloudWatch.
+
+---
+
+# 📚 Currently Learning
+
+- Kubernetes Security
+- Helm
+- GitOps
+- ArgoCD
+- Advanced AWS Services
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:jaibardiya5@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jai-bardiya-283014302/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jai-Bardiya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Jai-Bardiya&style=for-the-badge&color=blue"/>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Automate everything that can be automated."*
+
+</div>
