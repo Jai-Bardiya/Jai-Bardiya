@@ -82,30 +82,11 @@ Built a full-stack real-time chat application.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,contribs" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jai-Bardiya&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Bardiya&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # ⚡ Quote
 
