@@ -83,39 +83,30 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="55%" align="center">
+<td width="60%" align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues&include_all_commits=true"
-height="180"
-/>
+<img src="https://github-readme-stats.shion.dev/api?username=Jai-Bardiya&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="40%" align="center">
 
 <h2>🏆 AWS</h2>
 
-<img
-src="https://skillicons.dev/icons?i=aws"
-height="70"
-alt="AWS"
-/>
+<img src="https://skillicons.dev/icons?i=aws" height="70"/>
 
 <br><br>
 
-<h3><strong>AWS Certified</strong></h3>
+<h3>AWS Certified</h3>
 
-<h3>Cloud Practitioner</h3>
+<h4>Cloud Practitioner</h4>
 
-<img
-src="https://img.shields.io/badge/Certified-AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </td>
 
