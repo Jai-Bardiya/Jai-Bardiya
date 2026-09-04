@@ -90,7 +90,7 @@
 
 <td width="60%" align="center">
 
-https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Bardiya&theme=tokyo-night&hide_border=true"/>
 
 </td>
 
