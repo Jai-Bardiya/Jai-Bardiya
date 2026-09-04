@@ -85,28 +85,42 @@
 
 # 📊 GitHub Stats
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="55%" align="center">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues&include_all_commits=true"
+height="180"
+/>
 
-<td width="45%" align="center">
+</td>
+
+<td width="45%" align="center" valign="middle">
 
 <h2>🏆 AWS</h2>
 
 <img
 src="https://skillicons.dev/icons?i=aws"
-height="90"
+height="70"
 alt="AWS"
 />
 
 <br><br>
 
-<h3><b>AWS Cloud Practitioner</b></h3>
+<h3><strong>AWS Certified</strong></h3>
+
+<h3>Cloud Practitioner</h3>
+
+<img
+src="https://img.shields.io/badge/Certified-AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+/>
 
 </td>
+
+</tr>
+</table>
 # ⚡ DevOps Philosophy
 
 > **"Automate everything that can be automated."**
