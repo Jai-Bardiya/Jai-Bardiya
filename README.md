@@ -88,25 +88,29 @@
 <table align="center">
 <tr>
 
-<td width="50%" align="center">
+<td width="55%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" height="190"/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-## 🏆 AWS Certification
+<h2>🏆 AWS Certification</h2>
 
-<img src="https://images.credly.com/size/220x220/images/684d08c0-4f55-4be7-b8e8-91f6d7d3f9e4/image.png" width="170"/>
+<a href="YOUR_CREDLY_LINK">
+<img src="YOUR_CREDLY_BADGE_IMAGE" width="150"/>
+</a>
 
-### AWS Certified Cloud Practitioner
+<br>
+
+<b>AWS Certified</b><br>
+Cloud Practitioner
 
 </td>
 
 </tr>
 </table>
-
 # ⚡ DevOps Philosophy
 
 > **"Automate everything that can be automated."**
