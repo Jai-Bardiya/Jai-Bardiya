@@ -90,7 +90,7 @@
 
 <td width="60%" align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Jai-Bardiya&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img src="https://streak-stats.demolab.com?user=Jai-Bardiya&theme=tokyonight&hide_border=true"/>
 
 </td>
 
