@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Jai Bardiya
 
-<img src="assets/profile.jpg" width="220" style="border-radius:50%;" />
+<img src="jai.jpg" width="220" style="border-radius:50%;" />
 
 ### DevOps Engineer | AWS Cloud Enthusiast | Kubernetes | Terraform | CI/CD
 
