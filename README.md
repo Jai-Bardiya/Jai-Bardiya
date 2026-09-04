@@ -2,13 +2,11 @@
 
 # Hi 👋, I'm Jai Bardiya
 
-### 🚀 DevOps Engineer | AWS Cloud Enthusiast | Kubernetes | Terraform | CI/CD
+### 🚀 DevOps Engineer | Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Infrastructure+as+Code+with+Terraform;Containerization+with+Docker+%26+Kubernetes;Automating+Everything+I+Can" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Engineer;AWS+Cloud+Enthusiast;Infrastructure+as+Code+with+Terraform;Containerization+with+Docker+%26+Kubernetes;Automating+Everything+I+Can" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Jai-Bardiya&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -21,7 +19,6 @@
 - 🌱 Learning **GitOps (ArgoCD), Helm, Kubernetes Security & Advanced AWS**
 - 👯 Looking to collaborate on **Cloud & Open Source DevOps Projects**
 - 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Linux, Jenkins, GitHub Actions**
-- 📫 **jaibardiya5@gmail.com**
 - ⚡ *If I do something twice, I automate it.*
 
 ---
@@ -46,29 +43,26 @@
 ---
 
 # 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| ☁️ AWS Three-Tier Architecture | Highly Available AWS Infrastructure using Terraform |
-| ☸ Kubernetes Monitoring | Prometheus + Grafana Monitoring Stack |
-| 🐳 Dockerized Application | Multi-stage Docker Builds & Deployment |
-| ⚙️ Jenkins CI/CD Pipeline | Automated Build, Test & Deploy Pipeline |
-| 🌍 Terraform Modules | Reusable Infrastructure as Code Modules |
+### 🚀 [AIops](https://github.com/Jai-Bardiya/AI-Cloud-Cost-Detective)
 
-> ⭐ Pin these repositories on your GitHub profile.
+Developed an AI-powered cloud cost optimization platform analyzing AWS infrastructure (EC2, S3, CloudWatch) to surface costsaving opportunities, with potential to reduce monthly cloud spend by up to 30%.
+
+---
+
+### ☁️ [DevOps](https://github.com/Jai-Bardiya/Chat-App)
+
+Built a full-stack real-time chat application.
 
 ---
 
 # 🛠 Tech Stack
 
-## ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
 
 ## ⚙️ DevOps
-
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
