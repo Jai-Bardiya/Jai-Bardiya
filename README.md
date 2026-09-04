@@ -5,12 +5,10 @@
 ### 🚀 DevOps Engineer • Cloud Engineer • AWS • Kubernetes • Terraform • CI/CD
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jai-Bardiya&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+
 
 </div>
 
