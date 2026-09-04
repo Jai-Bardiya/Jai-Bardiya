@@ -2,15 +2,9 @@
 
 # Hi 👋, I'm Jai Bardiya
 
-### 🚀 DevOps Engineer • Cloud Engineer • AWS • Kubernetes • Terraform • CI/CD
+### 🚀 DevOps & Cloud Engineer • AWS • Kubernetes • Terraform • CI/CD
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;" />
-</p>
-
-
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+Engineer;AWS+Cloud+Enthusiast;Infrastructure+as+Code;CI%2FCD+Automation;Automating+Everything+I+Can" />
 
 </div>
 
@@ -18,24 +12,25 @@
 
 # 💫 About Me
 
-- ☁️ Passionate about Cloud, DevOps and Infrastructure Automation
-- 🔭 Currently building projects using **AWS, Terraform, Docker & Kubernetes**
-- 🌱 Learning **GitOps (ArgoCD), Helm, Kubernetes Security & Advanced AWS**
-- 👯 Looking to collaborate on **Cloud & Open Source DevOps Projects**
-- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Linux, Jenkins, GitHub Actions**
-- ⚡ *If I do something twice, I automate it.*
+- ☁️ Passionate about **Cloud Infrastructure, DevOps & Automation**
+- 🔭 Building scalable infrastructure with **AWS, Terraform, Docker & Kubernetes**
+- 🌱 Currently learning **GitOps (ArgoCD), Helm, Kubernetes Security & Advanced AWS**
+- 👯 Open to collaborate on **Cloud & Open Source DevOps Projects**
+- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Linux, Jenkins & GitHub Actions**
+- ⚡ **If I do something twice, I automate it.**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/jai-bardiya-283014302/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jaibardiya5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/jai_bardiya/" target="_blank">
@@ -47,48 +42,60 @@
 ---
 
 # 🚀 Featured Projects
-## 🚀 Featured Projects
 
-### 🚀 [AIops](https://github.com/Jai-Bardiya/AI-Cloud-Cost-Detective)
+### ☁️ AI Cloud Cost Detective
+🔗 **Repository:** https://github.com/Jai-Bardiya/AI-Cloud-Cost-Detective
 
-Developed an AI-powered cloud cost optimization platform analyzing AWS infrastructure (EC2, S3, CloudWatch) to surface costsaving opportunities, with potential to reduce monthly cloud spend by up to 30%.
+> AI-powered AWS cost optimization platform that analyzes EC2, S3 and CloudWatch resources to identify savings and improve cloud efficiency.
+
+**Tech:** AWS • Python • AI • CloudWatch
 
 ---
 
-### ☁️ [DevOps](https://github.com/Jai-Bardiya/Chat-App)
+### 💬 Real-Time Chat Application
+🔗 **Repository:** https://github.com/Jai-Bardiya/Chat-App
 
-Built a full-stack real-time chat application.
+> Full-stack real-time chat application with authentication, live messaging and containerized deployment.
+
+**Tech:** Node.js • Express • Socket.IO • MongoDB • Docker
 
 ---
 
 # 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55"/>
-</p>
-
-# 📊 GitHub Analytics
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
+
 </p>
 
+---
 
+# 📊 GitHub Stats
 
-# ⚡ Quote
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues,prs"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ DevOps Philosophy
 
 > **"Automate everything that can be automated."**
 
@@ -96,8 +103,8 @@ Built a full-stack real-time chat application.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-If you like my work, consider starring my repositories ⭐
+If you find my projects useful, consider giving them a ⭐
 
 </div>
