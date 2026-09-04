@@ -85,27 +85,23 @@
 
 # 📊 GitHub Stats
 
-<table align="center">
+<table>
 <tr>
 
 <td width="55%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jai-Bardiya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 <td width="45%" align="center">
 
-<h2>🏆 AWS Certification</h2>
+<h2>🏆 AWS </h2>
 
-<a href="YOUR_CREDLY_LINK">
-<img src="YOUR_CREDLY_BADGE_IMAGE" width="150"/>
-</a>
+<b>AWS Cloud Practitioner</b>
 
-<br>
 
-<b>AWS Certified</b><br>
-Cloud Practitioner
+✅ Completed
 
 </td>
 
