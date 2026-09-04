@@ -2,11 +2,17 @@
 
 # Hi 👋, I'm Jai Bardiya
 
-### 🚀 DevOps Engineer | Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD
+### 🚀 DevOps Engineer • Cloud Engineer • AWS • Kubernetes • Terraform • CI/CD
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Engineer;AWS+Cloud+Enthusiast;Infrastructure+as+Code+with+Terraform;Containerization+with+Docker+%26+Kubernetes;Automating+Everything+I+Can" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Engineer;AWS+Cloud+Enthusiast;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Automating+Everything+I+Can" />
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Jai-Bardiya&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+</div>
 
 </div>
 
