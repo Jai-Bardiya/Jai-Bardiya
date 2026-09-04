@@ -96,17 +96,15 @@
 
 <td width="45%" align="center">
 
-<h2>🏆 AWS </h2>
+<h2>🏆 AWS</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="90"/>
+
+<br><br>
 
 <b>AWS Cloud Practitioner</b>
 
-
-✅ Completed
-
 </td>
-
-</tr>
-</table>
 # ⚡ DevOps Philosophy
 
 > **"Automate everything that can be automated."**
