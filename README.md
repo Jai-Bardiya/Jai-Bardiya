@@ -90,7 +90,9 @@
 
 <td width="60%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Bardiya&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Jai-Bardiya/Jai-Bardiya/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 </td>
 
