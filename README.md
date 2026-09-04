@@ -86,7 +86,11 @@ Built a full-stack real-time chat application.
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Bardiya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
+## 🛠 Technologies
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,linux,python,go,bash&theme=dark" />
+</p>
 # 🏆 GitHub Trophies
 
 <p align="center">
